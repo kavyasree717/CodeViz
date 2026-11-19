@@ -1,0 +1,2469 @@
+{
+    "output":  "Found at index: 4\r\n",
+    "error":  "",
+    "events":  [
+                   {
+                       "eventType":  "METHOD_ENTRY",
+                       "step":  1,
+                       "method":  "main",
+                       "class":  "Main",
+                       "signature":  "([Ljava/lang/String;)V",
+                       "caller":  null,
+                       "arguments":  {
+                                         "args":  {
+                                                      "kind":  "array",
+                                                      "type":  "java.lang.String[]",
+                                                      "length":  0,
+                                                      "elements":  [
+
+                                                                   ]
+                                                  }
+                                     },
+                       "thread":  "main",
+                       "stackDepth":  1,
+                       "stack":  [
+                                     {
+                                         "method":  "main",
+                                         "class":  "Main",
+                                         "line":  3,
+                                         "variables":  {
+                                                           "args":  {
+                                                                        "kind":  "array",
+                                                                        "type":  "java.lang.String[]",
+                                                                        "length":  0,
+                                                                        "elements":  [
+
+                                                                                     ]
+                                                                    }
+                                                       }
+                                     }
+                                 ]
+                   },
+                   {
+                       "eventType":  "LINE",
+                       "step":  2,
+                       "line":  4,
+                       "method":  "main",
+                       "class":  "Main",
+                       "thread":  "main",
+                       "stackDepth":  1,
+                       "stack":  [
+                                     {
+                                         "method":  "main",
+                                         "class":  "Main",
+                                         "line":  4,
+                                         "variables":  {
+                                                           "args":  {
+                                                                        "kind":  "array",
+                                                                        "type":  "java.lang.String[]",
+                                                                        "length":  0,
+                                                                        "elements":  [
+
+                                                                                     ]
+                                                                    },
+                                                           "arr":  {
+                                                                       "kind":  "array",
+                                                                       "type":  "int[]",
+                                                                       "length":  7,
+                                                                       "elements":  [
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "2"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "4"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "6"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "8"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "10"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "12"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "14"
+                                                                                        }
+                                                                                    ]
+                                                                   }
+                                                       }
+                                     }
+                                 ]
+                   },
+                   {
+                       "eventType":  "LINE",
+                       "step":  3,
+                       "line":  6,
+                       "method":  "main",
+                       "class":  "Main",
+                       "thread":  "main",
+                       "stackDepth":  1,
+                       "stack":  [
+                                     {
+                                         "method":  "main",
+                                         "class":  "Main",
+                                         "line":  6,
+                                         "variables":  {
+                                                           "args":  {
+                                                                        "kind":  "array",
+                                                                        "type":  "java.lang.String[]",
+                                                                        "length":  0,
+                                                                        "elements":  [
+
+                                                                                     ]
+                                                                    },
+                                                           "arr":  {
+                                                                       "kind":  "array",
+                                                                       "type":  "int[]",
+                                                                       "length":  7,
+                                                                       "elements":  [
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "2"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "4"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "6"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "8"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "10"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "12"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "14"
+                                                                                        }
+                                                                                    ]
+                                                                   },
+                                                           "target":  {
+                                                                          "kind":  "primitive",
+                                                                          "type":  "int",
+                                                                          "value":  "10"
+                                                                      }
+                                                       }
+                                     }
+                                 ]
+                   },
+                   {
+                       "eventType":  "LINE",
+                       "step":  4,
+                       "line":  7,
+                       "method":  "main",
+                       "class":  "Main",
+                       "thread":  "main",
+                       "stackDepth":  1,
+                       "stack":  [
+                                     {
+                                         "method":  "main",
+                                         "class":  "Main",
+                                         "line":  7,
+                                         "variables":  {
+                                                           "args":  {
+                                                                        "kind":  "array",
+                                                                        "type":  "java.lang.String[]",
+                                                                        "length":  0,
+                                                                        "elements":  [
+
+                                                                                     ]
+                                                                    },
+                                                           "arr":  {
+                                                                       "kind":  "array",
+                                                                       "type":  "int[]",
+                                                                       "length":  7,
+                                                                       "elements":  [
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "2"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "4"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "6"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "8"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "10"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "12"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "14"
+                                                                                        }
+                                                                                    ]
+                                                                   },
+                                                           "target":  {
+                                                                          "kind":  "primitive",
+                                                                          "type":  "int",
+                                                                          "value":  "10"
+                                                                      },
+                                                           "left":  {
+                                                                        "kind":  "primitive",
+                                                                        "type":  "int",
+                                                                        "value":  "0"
+                                                                    }
+                                                       }
+                                     }
+                                 ]
+                   },
+                   {
+                       "eventType":  "LINE",
+                       "step":  5,
+                       "line":  9,
+                       "method":  "main",
+                       "class":  "Main",
+                       "thread":  "main",
+                       "stackDepth":  1,
+                       "stack":  [
+                                     {
+                                         "method":  "main",
+                                         "class":  "Main",
+                                         "line":  9,
+                                         "variables":  {
+                                                           "args":  {
+                                                                        "kind":  "array",
+                                                                        "type":  "java.lang.String[]",
+                                                                        "length":  0,
+                                                                        "elements":  [
+
+                                                                                     ]
+                                                                    },
+                                                           "arr":  {
+                                                                       "kind":  "array",
+                                                                       "type":  "int[]",
+                                                                       "length":  7,
+                                                                       "elements":  [
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "2"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "4"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "6"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "8"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "10"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "12"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "14"
+                                                                                        }
+                                                                                    ]
+                                                                   },
+                                                           "target":  {
+                                                                          "kind":  "primitive",
+                                                                          "type":  "int",
+                                                                          "value":  "10"
+                                                                      },
+                                                           "left":  {
+                                                                        "kind":  "primitive",
+                                                                        "type":  "int",
+                                                                        "value":  "0"
+                                                                    },
+                                                           "right":  {
+                                                                         "kind":  "primitive",
+                                                                         "type":  "int",
+                                                                         "value":  "6"
+                                                                     }
+                                                       }
+                                     }
+                                 ]
+                   },
+                   {
+                       "eventType":  "LINE",
+                       "step":  6,
+                       "line":  10,
+                       "method":  "main",
+                       "class":  "Main",
+                       "thread":  "main",
+                       "stackDepth":  1,
+                       "stack":  [
+                                     {
+                                         "method":  "main",
+                                         "class":  "Main",
+                                         "line":  10,
+                                         "variables":  {
+                                                           "args":  {
+                                                                        "kind":  "array",
+                                                                        "type":  "java.lang.String[]",
+                                                                        "length":  0,
+                                                                        "elements":  [
+
+                                                                                     ]
+                                                                    },
+                                                           "arr":  {
+                                                                       "kind":  "array",
+                                                                       "type":  "int[]",
+                                                                       "length":  7,
+                                                                       "elements":  [
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "2"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "4"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "6"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "8"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "10"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "12"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "14"
+                                                                                        }
+                                                                                    ]
+                                                                   },
+                                                           "target":  {
+                                                                          "kind":  "primitive",
+                                                                          "type":  "int",
+                                                                          "value":  "10"
+                                                                      },
+                                                           "left":  {
+                                                                        "kind":  "primitive",
+                                                                        "type":  "int",
+                                                                        "value":  "0"
+                                                                    },
+                                                           "right":  {
+                                                                         "kind":  "primitive",
+                                                                         "type":  "int",
+                                                                         "value":  "6"
+                                                                     }
+                                                       }
+                                     }
+                                 ]
+                   },
+                   {
+                       "eventType":  "LINE",
+                       "step":  7,
+                       "line":  12,
+                       "method":  "main",
+                       "class":  "Main",
+                       "thread":  "main",
+                       "stackDepth":  1,
+                       "stack":  [
+                                     {
+                                         "method":  "main",
+                                         "class":  "Main",
+                                         "line":  12,
+                                         "variables":  {
+                                                           "args":  {
+                                                                        "kind":  "array",
+                                                                        "type":  "java.lang.String[]",
+                                                                        "length":  0,
+                                                                        "elements":  [
+
+                                                                                     ]
+                                                                    },
+                                                           "arr":  {
+                                                                       "kind":  "array",
+                                                                       "type":  "int[]",
+                                                                       "length":  7,
+                                                                       "elements":  [
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "2"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "4"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "6"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "8"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "10"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "12"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "14"
+                                                                                        }
+                                                                                    ]
+                                                                   },
+                                                           "target":  {
+                                                                          "kind":  "primitive",
+                                                                          "type":  "int",
+                                                                          "value":  "10"
+                                                                      },
+                                                           "left":  {
+                                                                        "kind":  "primitive",
+                                                                        "type":  "int",
+                                                                        "value":  "0"
+                                                                    },
+                                                           "right":  {
+                                                                         "kind":  "primitive",
+                                                                         "type":  "int",
+                                                                         "value":  "6"
+                                                                     },
+                                                           "mid":  {
+                                                                       "kind":  "primitive",
+                                                                       "type":  "int",
+                                                                       "value":  "3"
+                                                                   }
+                                                       }
+                                     }
+                                 ]
+                   },
+                   {
+                       "eventType":  "BRANCH",
+                       "step":  8,
+                       "line":  12,
+                       "method":  "main",
+                       "class":  "Main",
+                       "thread":  "main",
+                       "stackDepth":  1,
+                       "stack":  [
+                                     {
+                                         "method":  "main",
+                                         "class":  "Main",
+                                         "line":  12,
+                                         "variables":  {
+                                                           "args":  {
+                                                                        "kind":  "array",
+                                                                        "type":  "java.lang.String[]",
+                                                                        "length":  0,
+                                                                        "elements":  [
+
+                                                                                     ]
+                                                                    },
+                                                           "arr":  {
+                                                                       "kind":  "array",
+                                                                       "type":  "int[]",
+                                                                       "length":  7,
+                                                                       "elements":  [
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "2"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "4"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "6"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "8"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "10"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "12"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "14"
+                                                                                        }
+                                                                                    ]
+                                                                   },
+                                                           "target":  {
+                                                                          "kind":  "primitive",
+                                                                          "type":  "int",
+                                                                          "value":  "10"
+                                                                      },
+                                                           "left":  {
+                                                                        "kind":  "primitive",
+                                                                        "type":  "int",
+                                                                        "value":  "0"
+                                                                    },
+                                                           "right":  {
+                                                                         "kind":  "primitive",
+                                                                         "type":  "int",
+                                                                         "value":  "6"
+                                                                     },
+                                                           "mid":  {
+                                                                       "kind":  "primitive",
+                                                                       "type":  "int",
+                                                                       "value":  "3"
+                                                                   }
+                                                       }
+                                     }
+                                 ],
+                       "branchType":  "IF",
+                       "conditionExpression":  "(arr[mid] == target)",
+                       "conditionResult":  false,
+                       "branchTaken":  "ELSE",
+                       "hasElse":  true,
+                       "arguments":  {
+                                         "condition":  {
+                                                           "kind":  "primitive",
+                                                           "type":  "boolean",
+                                                           "value":  "false"
+                                                       },
+                                         "line":  {
+                                                      "kind":  "primitive",
+                                                      "type":  "int",
+                                                      "value":  "12"
+                                                  },
+                                         "expression":  {
+                                                            "kind":  "string",
+                                                            "type":  "String",
+                                                            "value":  "(arr[mid] == target)"
+                                                        },
+                                         "hasElse":  {
+                                                         "kind":  "primitive",
+                                                         "type":  "boolean",
+                                                         "value":  "true"
+                                                     }
+                                     }
+                   },
+                   {
+                       "eventType":  "LINE",
+                       "step":  9,
+                       "line":  15,
+                       "method":  "main",
+                       "class":  "Main",
+                       "thread":  "main",
+                       "stackDepth":  1,
+                       "stack":  [
+                                     {
+                                         "method":  "main",
+                                         "class":  "Main",
+                                         "line":  15,
+                                         "variables":  {
+                                                           "args":  {
+                                                                        "kind":  "array",
+                                                                        "type":  "java.lang.String[]",
+                                                                        "length":  0,
+                                                                        "elements":  [
+
+                                                                                     ]
+                                                                    },
+                                                           "arr":  {
+                                                                       "kind":  "array",
+                                                                       "type":  "int[]",
+                                                                       "length":  7,
+                                                                       "elements":  [
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "2"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "4"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "6"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "8"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "10"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "12"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "14"
+                                                                                        }
+                                                                                    ]
+                                                                   },
+                                                           "target":  {
+                                                                          "kind":  "primitive",
+                                                                          "type":  "int",
+                                                                          "value":  "10"
+                                                                      },
+                                                           "left":  {
+                                                                        "kind":  "primitive",
+                                                                        "type":  "int",
+                                                                        "value":  "0"
+                                                                    },
+                                                           "right":  {
+                                                                         "kind":  "primitive",
+                                                                         "type":  "int",
+                                                                         "value":  "6"
+                                                                     },
+                                                           "mid":  {
+                                                                       "kind":  "primitive",
+                                                                       "type":  "int",
+                                                                       "value":  "3"
+                                                                   }
+                                                       }
+                                     }
+                                 ]
+                   },
+                   {
+                       "eventType":  "BRANCH",
+                       "step":  10,
+                       "line":  15,
+                       "method":  "main",
+                       "class":  "Main",
+                       "thread":  "main",
+                       "stackDepth":  1,
+                       "stack":  [
+                                     {
+                                         "method":  "main",
+                                         "class":  "Main",
+                                         "line":  15,
+                                         "variables":  {
+                                                           "args":  {
+                                                                        "kind":  "array",
+                                                                        "type":  "java.lang.String[]",
+                                                                        "length":  0,
+                                                                        "elements":  [
+
+                                                                                     ]
+                                                                    },
+                                                           "arr":  {
+                                                                       "kind":  "array",
+                                                                       "type":  "int[]",
+                                                                       "length":  7,
+                                                                       "elements":  [
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "2"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "4"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "6"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "8"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "10"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "12"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "14"
+                                                                                        }
+                                                                                    ]
+                                                                   },
+                                                           "target":  {
+                                                                          "kind":  "primitive",
+                                                                          "type":  "int",
+                                                                          "value":  "10"
+                                                                      },
+                                                           "left":  {
+                                                                        "kind":  "primitive",
+                                                                        "type":  "int",
+                                                                        "value":  "0"
+                                                                    },
+                                                           "right":  {
+                                                                         "kind":  "primitive",
+                                                                         "type":  "int",
+                                                                         "value":  "6"
+                                                                     },
+                                                           "mid":  {
+                                                                       "kind":  "primitive",
+                                                                       "type":  "int",
+                                                                       "value":  "3"
+                                                                   }
+                                                       }
+                                     }
+                                 ],
+                       "branchType":  "IF",
+                       "conditionExpression":  "(arr[mid] \u003c target)",
+                       "conditionResult":  true,
+                       "branchTaken":  "THEN",
+                       "hasElse":  true,
+                       "arguments":  {
+                                         "condition":  {
+                                                           "kind":  "primitive",
+                                                           "type":  "boolean",
+                                                           "value":  "true"
+                                                       },
+                                         "line":  {
+                                                      "kind":  "primitive",
+                                                      "type":  "int",
+                                                      "value":  "15"
+                                                  },
+                                         "expression":  {
+                                                            "kind":  "string",
+                                                            "type":  "String",
+                                                            "value":  "(arr[mid] \u003c target)"
+                                                        },
+                                         "hasElse":  {
+                                                         "kind":  "primitive",
+                                                         "type":  "boolean",
+                                                         "value":  "true"
+                                                     }
+                                     }
+                   },
+                   {
+                       "eventType":  "LINE",
+                       "step":  11,
+                       "line":  16,
+                       "method":  "main",
+                       "class":  "Main",
+                       "thread":  "main",
+                       "stackDepth":  1,
+                       "stack":  [
+                                     {
+                                         "method":  "main",
+                                         "class":  "Main",
+                                         "line":  16,
+                                         "variables":  {
+                                                           "args":  {
+                                                                        "kind":  "array",
+                                                                        "type":  "java.lang.String[]",
+                                                                        "length":  0,
+                                                                        "elements":  [
+
+                                                                                     ]
+                                                                    },
+                                                           "arr":  {
+                                                                       "kind":  "array",
+                                                                       "type":  "int[]",
+                                                                       "length":  7,
+                                                                       "elements":  [
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "2"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "4"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "6"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "8"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "10"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "12"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "14"
+                                                                                        }
+                                                                                    ]
+                                                                   },
+                                                           "target":  {
+                                                                          "kind":  "primitive",
+                                                                          "type":  "int",
+                                                                          "value":  "10"
+                                                                      },
+                                                           "left":  {
+                                                                        "kind":  "primitive",
+                                                                        "type":  "int",
+                                                                        "value":  "0"
+                                                                    },
+                                                           "right":  {
+                                                                         "kind":  "primitive",
+                                                                         "type":  "int",
+                                                                         "value":  "6"
+                                                                     },
+                                                           "mid":  {
+                                                                       "kind":  "primitive",
+                                                                       "type":  "int",
+                                                                       "value":  "3"
+                                                                   }
+                                                       }
+                                     }
+                                 ]
+                   },
+                   {
+                       "eventType":  "LINE",
+                       "step":  12,
+                       "line":  20,
+                       "method":  "main",
+                       "class":  "Main",
+                       "thread":  "main",
+                       "stackDepth":  1,
+                       "stack":  [
+                                     {
+                                         "method":  "main",
+                                         "class":  "Main",
+                                         "line":  20,
+                                         "variables":  {
+                                                           "args":  {
+                                                                        "kind":  "array",
+                                                                        "type":  "java.lang.String[]",
+                                                                        "length":  0,
+                                                                        "elements":  [
+
+                                                                                     ]
+                                                                    },
+                                                           "arr":  {
+                                                                       "kind":  "array",
+                                                                       "type":  "int[]",
+                                                                       "length":  7,
+                                                                       "elements":  [
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "2"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "4"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "6"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "8"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "10"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "12"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "14"
+                                                                                        }
+                                                                                    ]
+                                                                   },
+                                                           "target":  {
+                                                                          "kind":  "primitive",
+                                                                          "type":  "int",
+                                                                          "value":  "10"
+                                                                      },
+                                                           "left":  {
+                                                                        "kind":  "primitive",
+                                                                        "type":  "int",
+                                                                        "value":  "4"
+                                                                    },
+                                                           "right":  {
+                                                                         "kind":  "primitive",
+                                                                         "type":  "int",
+                                                                         "value":  "6"
+                                                                     }
+                                                       }
+                                     }
+                                 ]
+                   },
+                   {
+                       "eventType":  "LINE",
+                       "step":  13,
+                       "line":  9,
+                       "method":  "main",
+                       "class":  "Main",
+                       "thread":  "main",
+                       "stackDepth":  1,
+                       "stack":  [
+                                     {
+                                         "method":  "main",
+                                         "class":  "Main",
+                                         "line":  9,
+                                         "variables":  {
+                                                           "args":  {
+                                                                        "kind":  "array",
+                                                                        "type":  "java.lang.String[]",
+                                                                        "length":  0,
+                                                                        "elements":  [
+
+                                                                                     ]
+                                                                    },
+                                                           "arr":  {
+                                                                       "kind":  "array",
+                                                                       "type":  "int[]",
+                                                                       "length":  7,
+                                                                       "elements":  [
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "2"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "4"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "6"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "8"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "10"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "12"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "14"
+                                                                                        }
+                                                                                    ]
+                                                                   },
+                                                           "target":  {
+                                                                          "kind":  "primitive",
+                                                                          "type":  "int",
+                                                                          "value":  "10"
+                                                                      },
+                                                           "left":  {
+                                                                        "kind":  "primitive",
+                                                                        "type":  "int",
+                                                                        "value":  "4"
+                                                                    },
+                                                           "right":  {
+                                                                         "kind":  "primitive",
+                                                                         "type":  "int",
+                                                                         "value":  "6"
+                                                                     }
+                                                       }
+                                     }
+                                 ]
+                   },
+                   {
+                       "eventType":  "LINE",
+                       "step":  14,
+                       "line":  10,
+                       "method":  "main",
+                       "class":  "Main",
+                       "thread":  "main",
+                       "stackDepth":  1,
+                       "stack":  [
+                                     {
+                                         "method":  "main",
+                                         "class":  "Main",
+                                         "line":  10,
+                                         "variables":  {
+                                                           "args":  {
+                                                                        "kind":  "array",
+                                                                        "type":  "java.lang.String[]",
+                                                                        "length":  0,
+                                                                        "elements":  [
+
+                                                                                     ]
+                                                                    },
+                                                           "arr":  {
+                                                                       "kind":  "array",
+                                                                       "type":  "int[]",
+                                                                       "length":  7,
+                                                                       "elements":  [
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "2"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "4"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "6"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "8"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "10"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "12"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "14"
+                                                                                        }
+                                                                                    ]
+                                                                   },
+                                                           "target":  {
+                                                                          "kind":  "primitive",
+                                                                          "type":  "int",
+                                                                          "value":  "10"
+                                                                      },
+                                                           "left":  {
+                                                                        "kind":  "primitive",
+                                                                        "type":  "int",
+                                                                        "value":  "4"
+                                                                    },
+                                                           "right":  {
+                                                                         "kind":  "primitive",
+                                                                         "type":  "int",
+                                                                         "value":  "6"
+                                                                     }
+                                                       }
+                                     }
+                                 ]
+                   },
+                   {
+                       "eventType":  "LINE",
+                       "step":  15,
+                       "line":  12,
+                       "method":  "main",
+                       "class":  "Main",
+                       "thread":  "main",
+                       "stackDepth":  1,
+                       "stack":  [
+                                     {
+                                         "method":  "main",
+                                         "class":  "Main",
+                                         "line":  12,
+                                         "variables":  {
+                                                           "args":  {
+                                                                        "kind":  "array",
+                                                                        "type":  "java.lang.String[]",
+                                                                        "length":  0,
+                                                                        "elements":  [
+
+                                                                                     ]
+                                                                    },
+                                                           "arr":  {
+                                                                       "kind":  "array",
+                                                                       "type":  "int[]",
+                                                                       "length":  7,
+                                                                       "elements":  [
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "2"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "4"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "6"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "8"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "10"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "12"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "14"
+                                                                                        }
+                                                                                    ]
+                                                                   },
+                                                           "target":  {
+                                                                          "kind":  "primitive",
+                                                                          "type":  "int",
+                                                                          "value":  "10"
+                                                                      },
+                                                           "left":  {
+                                                                        "kind":  "primitive",
+                                                                        "type":  "int",
+                                                                        "value":  "4"
+                                                                    },
+                                                           "right":  {
+                                                                         "kind":  "primitive",
+                                                                         "type":  "int",
+                                                                         "value":  "6"
+                                                                     },
+                                                           "mid":  {
+                                                                       "kind":  "primitive",
+                                                                       "type":  "int",
+                                                                       "value":  "5"
+                                                                   }
+                                                       }
+                                     }
+                                 ]
+                   },
+                   {
+                       "eventType":  "BRANCH",
+                       "step":  16,
+                       "line":  12,
+                       "method":  "main",
+                       "class":  "Main",
+                       "thread":  "main",
+                       "stackDepth":  1,
+                       "stack":  [
+                                     {
+                                         "method":  "main",
+                                         "class":  "Main",
+                                         "line":  12,
+                                         "variables":  {
+                                                           "args":  {
+                                                                        "kind":  "array",
+                                                                        "type":  "java.lang.String[]",
+                                                                        "length":  0,
+                                                                        "elements":  [
+
+                                                                                     ]
+                                                                    },
+                                                           "arr":  {
+                                                                       "kind":  "array",
+                                                                       "type":  "int[]",
+                                                                       "length":  7,
+                                                                       "elements":  [
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "2"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "4"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "6"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "8"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "10"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "12"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "14"
+                                                                                        }
+                                                                                    ]
+                                                                   },
+                                                           "target":  {
+                                                                          "kind":  "primitive",
+                                                                          "type":  "int",
+                                                                          "value":  "10"
+                                                                      },
+                                                           "left":  {
+                                                                        "kind":  "primitive",
+                                                                        "type":  "int",
+                                                                        "value":  "4"
+                                                                    },
+                                                           "right":  {
+                                                                         "kind":  "primitive",
+                                                                         "type":  "int",
+                                                                         "value":  "6"
+                                                                     },
+                                                           "mid":  {
+                                                                       "kind":  "primitive",
+                                                                       "type":  "int",
+                                                                       "value":  "5"
+                                                                   }
+                                                       }
+                                     }
+                                 ],
+                       "branchType":  "IF",
+                       "conditionExpression":  "(arr[mid] == target)",
+                       "conditionResult":  false,
+                       "branchTaken":  "ELSE",
+                       "hasElse":  true,
+                       "arguments":  {
+                                         "condition":  {
+                                                           "kind":  "primitive",
+                                                           "type":  "boolean",
+                                                           "value":  "false"
+                                                       },
+                                         "line":  {
+                                                      "kind":  "primitive",
+                                                      "type":  "int",
+                                                      "value":  "12"
+                                                  },
+                                         "expression":  {
+                                                            "kind":  "string",
+                                                            "type":  "String",
+                                                            "value":  "(arr[mid] == target)"
+                                                        },
+                                         "hasElse":  {
+                                                         "kind":  "primitive",
+                                                         "type":  "boolean",
+                                                         "value":  "true"
+                                                     }
+                                     }
+                   },
+                   {
+                       "eventType":  "LINE",
+                       "step":  17,
+                       "line":  15,
+                       "method":  "main",
+                       "class":  "Main",
+                       "thread":  "main",
+                       "stackDepth":  1,
+                       "stack":  [
+                                     {
+                                         "method":  "main",
+                                         "class":  "Main",
+                                         "line":  15,
+                                         "variables":  {
+                                                           "args":  {
+                                                                        "kind":  "array",
+                                                                        "type":  "java.lang.String[]",
+                                                                        "length":  0,
+                                                                        "elements":  [
+
+                                                                                     ]
+                                                                    },
+                                                           "arr":  {
+                                                                       "kind":  "array",
+                                                                       "type":  "int[]",
+                                                                       "length":  7,
+                                                                       "elements":  [
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "2"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "4"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "6"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "8"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "10"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "12"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "14"
+                                                                                        }
+                                                                                    ]
+                                                                   },
+                                                           "target":  {
+                                                                          "kind":  "primitive",
+                                                                          "type":  "int",
+                                                                          "value":  "10"
+                                                                      },
+                                                           "left":  {
+                                                                        "kind":  "primitive",
+                                                                        "type":  "int",
+                                                                        "value":  "4"
+                                                                    },
+                                                           "right":  {
+                                                                         "kind":  "primitive",
+                                                                         "type":  "int",
+                                                                         "value":  "6"
+                                                                     },
+                                                           "mid":  {
+                                                                       "kind":  "primitive",
+                                                                       "type":  "int",
+                                                                       "value":  "5"
+                                                                   }
+                                                       }
+                                     }
+                                 ]
+                   },
+                   {
+                       "eventType":  "BRANCH",
+                       "step":  18,
+                       "line":  15,
+                       "method":  "main",
+                       "class":  "Main",
+                       "thread":  "main",
+                       "stackDepth":  1,
+                       "stack":  [
+                                     {
+                                         "method":  "main",
+                                         "class":  "Main",
+                                         "line":  15,
+                                         "variables":  {
+                                                           "args":  {
+                                                                        "kind":  "array",
+                                                                        "type":  "java.lang.String[]",
+                                                                        "length":  0,
+                                                                        "elements":  [
+
+                                                                                     ]
+                                                                    },
+                                                           "arr":  {
+                                                                       "kind":  "array",
+                                                                       "type":  "int[]",
+                                                                       "length":  7,
+                                                                       "elements":  [
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "2"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "4"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "6"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "8"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "10"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "12"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "14"
+                                                                                        }
+                                                                                    ]
+                                                                   },
+                                                           "target":  {
+                                                                          "kind":  "primitive",
+                                                                          "type":  "int",
+                                                                          "value":  "10"
+                                                                      },
+                                                           "left":  {
+                                                                        "kind":  "primitive",
+                                                                        "type":  "int",
+                                                                        "value":  "4"
+                                                                    },
+                                                           "right":  {
+                                                                         "kind":  "primitive",
+                                                                         "type":  "int",
+                                                                         "value":  "6"
+                                                                     },
+                                                           "mid":  {
+                                                                       "kind":  "primitive",
+                                                                       "type":  "int",
+                                                                       "value":  "5"
+                                                                   }
+                                                       }
+                                     }
+                                 ],
+                       "branchType":  "IF",
+                       "conditionExpression":  "(arr[mid] \u003c target)",
+                       "conditionResult":  false,
+                       "branchTaken":  "ELSE",
+                       "hasElse":  true,
+                       "arguments":  {
+                                         "condition":  {
+                                                           "kind":  "primitive",
+                                                           "type":  "boolean",
+                                                           "value":  "false"
+                                                       },
+                                         "line":  {
+                                                      "kind":  "primitive",
+                                                      "type":  "int",
+                                                      "value":  "15"
+                                                  },
+                                         "expression":  {
+                                                            "kind":  "string",
+                                                            "type":  "String",
+                                                            "value":  "(arr[mid] \u003c target)"
+                                                        },
+                                         "hasElse":  {
+                                                         "kind":  "primitive",
+                                                         "type":  "boolean",
+                                                         "value":  "true"
+                                                     }
+                                     }
+                   },
+                   {
+                       "eventType":  "LINE",
+                       "step":  19,
+                       "line":  18,
+                       "method":  "main",
+                       "class":  "Main",
+                       "thread":  "main",
+                       "stackDepth":  1,
+                       "stack":  [
+                                     {
+                                         "method":  "main",
+                                         "class":  "Main",
+                                         "line":  18,
+                                         "variables":  {
+                                                           "args":  {
+                                                                        "kind":  "array",
+                                                                        "type":  "java.lang.String[]",
+                                                                        "length":  0,
+                                                                        "elements":  [
+
+                                                                                     ]
+                                                                    },
+                                                           "arr":  {
+                                                                       "kind":  "array",
+                                                                       "type":  "int[]",
+                                                                       "length":  7,
+                                                                       "elements":  [
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "2"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "4"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "6"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "8"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "10"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "12"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "14"
+                                                                                        }
+                                                                                    ]
+                                                                   },
+                                                           "target":  {
+                                                                          "kind":  "primitive",
+                                                                          "type":  "int",
+                                                                          "value":  "10"
+                                                                      },
+                                                           "left":  {
+                                                                        "kind":  "primitive",
+                                                                        "type":  "int",
+                                                                        "value":  "4"
+                                                                    },
+                                                           "right":  {
+                                                                         "kind":  "primitive",
+                                                                         "type":  "int",
+                                                                         "value":  "6"
+                                                                     },
+                                                           "mid":  {
+                                                                       "kind":  "primitive",
+                                                                       "type":  "int",
+                                                                       "value":  "5"
+                                                                   }
+                                                       }
+                                     }
+                                 ]
+                   },
+                   {
+                       "eventType":  "LINE",
+                       "step":  20,
+                       "line":  20,
+                       "method":  "main",
+                       "class":  "Main",
+                       "thread":  "main",
+                       "stackDepth":  1,
+                       "stack":  [
+                                     {
+                                         "method":  "main",
+                                         "class":  "Main",
+                                         "line":  20,
+                                         "variables":  {
+                                                           "args":  {
+                                                                        "kind":  "array",
+                                                                        "type":  "java.lang.String[]",
+                                                                        "length":  0,
+                                                                        "elements":  [
+
+                                                                                     ]
+                                                                    },
+                                                           "arr":  {
+                                                                       "kind":  "array",
+                                                                       "type":  "int[]",
+                                                                       "length":  7,
+                                                                       "elements":  [
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "2"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "4"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "6"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "8"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "10"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "12"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "14"
+                                                                                        }
+                                                                                    ]
+                                                                   },
+                                                           "target":  {
+                                                                          "kind":  "primitive",
+                                                                          "type":  "int",
+                                                                          "value":  "10"
+                                                                      },
+                                                           "left":  {
+                                                                        "kind":  "primitive",
+                                                                        "type":  "int",
+                                                                        "value":  "4"
+                                                                    },
+                                                           "right":  {
+                                                                         "kind":  "primitive",
+                                                                         "type":  "int",
+                                                                         "value":  "4"
+                                                                     }
+                                                       }
+                                     }
+                                 ]
+                   },
+                   {
+                       "eventType":  "LINE",
+                       "step":  21,
+                       "line":  9,
+                       "method":  "main",
+                       "class":  "Main",
+                       "thread":  "main",
+                       "stackDepth":  1,
+                       "stack":  [
+                                     {
+                                         "method":  "main",
+                                         "class":  "Main",
+                                         "line":  9,
+                                         "variables":  {
+                                                           "args":  {
+                                                                        "kind":  "array",
+                                                                        "type":  "java.lang.String[]",
+                                                                        "length":  0,
+                                                                        "elements":  [
+
+                                                                                     ]
+                                                                    },
+                                                           "arr":  {
+                                                                       "kind":  "array",
+                                                                       "type":  "int[]",
+                                                                       "length":  7,
+                                                                       "elements":  [
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "2"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "4"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "6"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "8"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "10"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "12"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "14"
+                                                                                        }
+                                                                                    ]
+                                                                   },
+                                                           "target":  {
+                                                                          "kind":  "primitive",
+                                                                          "type":  "int",
+                                                                          "value":  "10"
+                                                                      },
+                                                           "left":  {
+                                                                        "kind":  "primitive",
+                                                                        "type":  "int",
+                                                                        "value":  "4"
+                                                                    },
+                                                           "right":  {
+                                                                         "kind":  "primitive",
+                                                                         "type":  "int",
+                                                                         "value":  "4"
+                                                                     }
+                                                       }
+                                     }
+                                 ]
+                   },
+                   {
+                       "eventType":  "LINE",
+                       "step":  22,
+                       "line":  10,
+                       "method":  "main",
+                       "class":  "Main",
+                       "thread":  "main",
+                       "stackDepth":  1,
+                       "stack":  [
+                                     {
+                                         "method":  "main",
+                                         "class":  "Main",
+                                         "line":  10,
+                                         "variables":  {
+                                                           "args":  {
+                                                                        "kind":  "array",
+                                                                        "type":  "java.lang.String[]",
+                                                                        "length":  0,
+                                                                        "elements":  [
+
+                                                                                     ]
+                                                                    },
+                                                           "arr":  {
+                                                                       "kind":  "array",
+                                                                       "type":  "int[]",
+                                                                       "length":  7,
+                                                                       "elements":  [
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "2"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "4"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "6"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "8"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "10"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "12"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "14"
+                                                                                        }
+                                                                                    ]
+                                                                   },
+                                                           "target":  {
+                                                                          "kind":  "primitive",
+                                                                          "type":  "int",
+                                                                          "value":  "10"
+                                                                      },
+                                                           "left":  {
+                                                                        "kind":  "primitive",
+                                                                        "type":  "int",
+                                                                        "value":  "4"
+                                                                    },
+                                                           "right":  {
+                                                                         "kind":  "primitive",
+                                                                         "type":  "int",
+                                                                         "value":  "4"
+                                                                     }
+                                                       }
+                                     }
+                                 ]
+                   },
+                   {
+                       "eventType":  "LINE",
+                       "step":  23,
+                       "line":  12,
+                       "method":  "main",
+                       "class":  "Main",
+                       "thread":  "main",
+                       "stackDepth":  1,
+                       "stack":  [
+                                     {
+                                         "method":  "main",
+                                         "class":  "Main",
+                                         "line":  12,
+                                         "variables":  {
+                                                           "args":  {
+                                                                        "kind":  "array",
+                                                                        "type":  "java.lang.String[]",
+                                                                        "length":  0,
+                                                                        "elements":  [
+
+                                                                                     ]
+                                                                    },
+                                                           "arr":  {
+                                                                       "kind":  "array",
+                                                                       "type":  "int[]",
+                                                                       "length":  7,
+                                                                       "elements":  [
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "2"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "4"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "6"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "8"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "10"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "12"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "14"
+                                                                                        }
+                                                                                    ]
+                                                                   },
+                                                           "target":  {
+                                                                          "kind":  "primitive",
+                                                                          "type":  "int",
+                                                                          "value":  "10"
+                                                                      },
+                                                           "left":  {
+                                                                        "kind":  "primitive",
+                                                                        "type":  "int",
+                                                                        "value":  "4"
+                                                                    },
+                                                           "right":  {
+                                                                         "kind":  "primitive",
+                                                                         "type":  "int",
+                                                                         "value":  "4"
+                                                                     },
+                                                           "mid":  {
+                                                                       "kind":  "primitive",
+                                                                       "type":  "int",
+                                                                       "value":  "4"
+                                                                   }
+                                                       }
+                                     }
+                                 ]
+                   },
+                   {
+                       "eventType":  "BRANCH",
+                       "step":  24,
+                       "line":  12,
+                       "method":  "main",
+                       "class":  "Main",
+                       "thread":  "main",
+                       "stackDepth":  1,
+                       "stack":  [
+                                     {
+                                         "method":  "main",
+                                         "class":  "Main",
+                                         "line":  12,
+                                         "variables":  {
+                                                           "args":  {
+                                                                        "kind":  "array",
+                                                                        "type":  "java.lang.String[]",
+                                                                        "length":  0,
+                                                                        "elements":  [
+
+                                                                                     ]
+                                                                    },
+                                                           "arr":  {
+                                                                       "kind":  "array",
+                                                                       "type":  "int[]",
+                                                                       "length":  7,
+                                                                       "elements":  [
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "2"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "4"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "6"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "8"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "10"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "12"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "14"
+                                                                                        }
+                                                                                    ]
+                                                                   },
+                                                           "target":  {
+                                                                          "kind":  "primitive",
+                                                                          "type":  "int",
+                                                                          "value":  "10"
+                                                                      },
+                                                           "left":  {
+                                                                        "kind":  "primitive",
+                                                                        "type":  "int",
+                                                                        "value":  "4"
+                                                                    },
+                                                           "right":  {
+                                                                         "kind":  "primitive",
+                                                                         "type":  "int",
+                                                                         "value":  "4"
+                                                                     },
+                                                           "mid":  {
+                                                                       "kind":  "primitive",
+                                                                       "type":  "int",
+                                                                       "value":  "4"
+                                                                   }
+                                                       }
+                                     }
+                                 ],
+                       "branchType":  "IF",
+                       "conditionExpression":  "(arr[mid] == target)",
+                       "conditionResult":  true,
+                       "branchTaken":  "THEN",
+                       "hasElse":  true,
+                       "arguments":  {
+                                         "condition":  {
+                                                           "kind":  "primitive",
+                                                           "type":  "boolean",
+                                                           "value":  "true"
+                                                       },
+                                         "line":  {
+                                                      "kind":  "primitive",
+                                                      "type":  "int",
+                                                      "value":  "12"
+                                                  },
+                                         "expression":  {
+                                                            "kind":  "string",
+                                                            "type":  "String",
+                                                            "value":  "(arr[mid] == target)"
+                                                        },
+                                         "hasElse":  {
+                                                         "kind":  "primitive",
+                                                         "type":  "boolean",
+                                                         "value":  "true"
+                                                     }
+                                     }
+                   },
+                   {
+                       "eventType":  "LINE",
+                       "step":  25,
+                       "line":  13,
+                       "method":  "main",
+                       "class":  "Main",
+                       "thread":  "main",
+                       "stackDepth":  1,
+                       "stack":  [
+                                     {
+                                         "method":  "main",
+                                         "class":  "Main",
+                                         "line":  13,
+                                         "variables":  {
+                                                           "args":  {
+                                                                        "kind":  "array",
+                                                                        "type":  "java.lang.String[]",
+                                                                        "length":  0,
+                                                                        "elements":  [
+
+                                                                                     ]
+                                                                    },
+                                                           "arr":  {
+                                                                       "kind":  "array",
+                                                                       "type":  "int[]",
+                                                                       "length":  7,
+                                                                       "elements":  [
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "2"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "4"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "6"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "8"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "10"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "12"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "14"
+                                                                                        }
+                                                                                    ]
+                                                                   },
+                                                           "target":  {
+                                                                          "kind":  "primitive",
+                                                                          "type":  "int",
+                                                                          "value":  "10"
+                                                                      },
+                                                           "left":  {
+                                                                        "kind":  "primitive",
+                                                                        "type":  "int",
+                                                                        "value":  "4"
+                                                                    },
+                                                           "right":  {
+                                                                         "kind":  "primitive",
+                                                                         "type":  "int",
+                                                                         "value":  "4"
+                                                                     },
+                                                           "mid":  {
+                                                                       "kind":  "primitive",
+                                                                       "type":  "int",
+                                                                       "value":  "4"
+                                                                   }
+                                                       }
+                                     }
+                                 ]
+                   },
+                   {
+                       "eventType":  "LINE",
+                       "step":  26,
+                       "line":  14,
+                       "method":  "main",
+                       "class":  "Main",
+                       "thread":  "main",
+                       "stackDepth":  1,
+                       "stack":  [
+                                     {
+                                         "method":  "main",
+                                         "class":  "Main",
+                                         "line":  14,
+                                         "variables":  {
+                                                           "args":  {
+                                                                        "kind":  "array",
+                                                                        "type":  "java.lang.String[]",
+                                                                        "length":  0,
+                                                                        "elements":  [
+
+                                                                                     ]
+                                                                    },
+                                                           "arr":  {
+                                                                       "kind":  "array",
+                                                                       "type":  "int[]",
+                                                                       "length":  7,
+                                                                       "elements":  [
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "2"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "4"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "6"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "8"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "10"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "12"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "14"
+                                                                                        }
+                                                                                    ]
+                                                                   },
+                                                           "target":  {
+                                                                          "kind":  "primitive",
+                                                                          "type":  "int",
+                                                                          "value":  "10"
+                                                                      },
+                                                           "left":  {
+                                                                        "kind":  "primitive",
+                                                                        "type":  "int",
+                                                                        "value":  "4"
+                                                                    },
+                                                           "right":  {
+                                                                         "kind":  "primitive",
+                                                                         "type":  "int",
+                                                                         "value":  "4"
+                                                                     },
+                                                           "mid":  {
+                                                                       "kind":  "primitive",
+                                                                       "type":  "int",
+                                                                       "value":  "4"
+                                                                   }
+                                                       }
+                                     }
+                                 ]
+                   },
+                   {
+                       "eventType":  "LINE",
+                       "step":  27,
+                       "line":  21,
+                       "method":  "main",
+                       "class":  "Main",
+                       "thread":  "main",
+                       "stackDepth":  1,
+                       "stack":  [
+                                     {
+                                         "method":  "main",
+                                         "class":  "Main",
+                                         "line":  21,
+                                         "variables":  {
+                                                           "args":  {
+                                                                        "kind":  "array",
+                                                                        "type":  "java.lang.String[]",
+                                                                        "length":  0,
+                                                                        "elements":  [
+
+                                                                                     ]
+                                                                    },
+                                                           "arr":  {
+                                                                       "kind":  "array",
+                                                                       "type":  "int[]",
+                                                                       "length":  7,
+                                                                       "elements":  [
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "2"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "4"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "6"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "8"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "10"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "12"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "14"
+                                                                                        }
+                                                                                    ]
+                                                                   },
+                                                           "target":  {
+                                                                          "kind":  "primitive",
+                                                                          "type":  "int",
+                                                                          "value":  "10"
+                                                                      },
+                                                           "left":  {
+                                                                        "kind":  "primitive",
+                                                                        "type":  "int",
+                                                                        "value":  "4"
+                                                                    },
+                                                           "right":  {
+                                                                         "kind":  "primitive",
+                                                                         "type":  "int",
+                                                                         "value":  "4"
+                                                                     }
+                                                       }
+                                     }
+                                 ]
+                   },
+                   {
+                       "eventType":  "METHOD_EXIT",
+                       "step":  28,
+                       "method":  "main",
+                       "class":  "Main",
+                       "signature":  "([Ljava/lang/String;)V",
+                       "caller":  null,
+                       "arguments":  {
+
+                                     },
+                       "thread":  "main",
+                       "stackDepth":  1,
+                       "stack":  [
+                                     {
+                                         "method":  "main",
+                                         "class":  "Main",
+                                         "line":  21,
+                                         "variables":  {
+                                                           "args":  {
+                                                                        "kind":  "array",
+                                                                        "type":  "java.lang.String[]",
+                                                                        "length":  0,
+                                                                        "elements":  [
+
+                                                                                     ]
+                                                                    },
+                                                           "arr":  {
+                                                                       "kind":  "array",
+                                                                       "type":  "int[]",
+                                                                       "length":  7,
+                                                                       "elements":  [
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "2"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "4"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "6"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "8"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "10"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "12"
+                                                                                        },
+                                                                                        {
+                                                                                            "kind":  "primitive",
+                                                                                            "type":  "int",
+                                                                                            "value":  "14"
+                                                                                        }
+                                                                                    ]
+                                                                   },
+                                                           "target":  {
+                                                                          "kind":  "primitive",
+                                                                          "type":  "int",
+                                                                          "value":  "10"
+                                                                      },
+                                                           "left":  {
+                                                                        "kind":  "primitive",
+                                                                        "type":  "int",
+                                                                        "value":  "4"
+                                                                    },
+                                                           "right":  {
+                                                                         "kind":  "primitive",
+                                                                         "type":  "int",
+                                                                         "value":  "4"
+                                                                     }
+                                                       }
+                                     }
+                                 ],
+                       "returnValueAvailable":  true,
+                       "returnValue":  {
+                                           "kind":  "unknown",
+                                           "type":  "void",
+                                           "value":  "\u003cvoid value\u003e"
+                                       }
+                   }
+               ]
+}

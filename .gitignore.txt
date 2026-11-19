@@ -1,0 +1,48 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+backend/node_modules/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Build outputs
+dist/
+frontend/dist/
+backend/dist/
+build/
+out/
+
+# Java compiled files
+*.class
+*.jar
+
+# Logs
+*.log
+npm-debug.log*
+logs/
+
+# Temporary files
+temp/
+tmp/
+uploads/
+execution/
+generated/
+instrumented/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python files (if any)
+__pycache__/
+*.pyc
+venv/
+.venv/
